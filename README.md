@@ -1,3 +1,4 @@
+![Vinted Like Marketplace](vinted-like-marketplace.png)
 # Launch Your Resale Marketplace Using Vinted Clone
 Vinted has grown into a well-known resale clothing marketplace where individuals buy and sell pre-owned fashion items with ease. From everyday apparel to premium secondhand pieces, it connects sellers and buyers who value affordability, sustainability, and style. The platform demonstrates how peer-to-peer resale has become a powerful segment within modern eCommerce.
 
