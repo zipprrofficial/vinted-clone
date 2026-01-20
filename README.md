@@ -1,1 +1,1 @@
-# vinted-clone
+# Launch Your Resale Marketplace Using Vinted Clone
